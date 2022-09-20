@@ -1,0 +1,20 @@
+#Header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    padding: 30px;
+
+    border-bottom: 3px solid #f36d10;
+
+    margin-bottom: 200px;
+}
+
+#Header h1  {
+    font-size: 40px;
+    color: #f36d10;
+}
+
+#Header img {
+    width: 200px;
+}
